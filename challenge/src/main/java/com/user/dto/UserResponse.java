@@ -1,3 +1,3 @@
 package com.user.dto;
 
-public record UserResponse(String username, String password, String email) {}
+public record UserResponse(String name, String password, String email) {}
